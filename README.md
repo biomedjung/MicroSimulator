@@ -12,3 +12,7 @@ Para explorar a ideia e apresentar à academia a validade e a necessidade de con
 
 # OBJETIVOS:
 - Parceria com aluno de graduação para fazer um TCC no projeto;
+- Parceria com desenvolvedores;
+- Buscar primeiras imagens para testes;
+- Buscar softwares open source que possam auxiliar no desenvolvimento;
+
