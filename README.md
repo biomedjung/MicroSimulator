@@ -1,4 +1,4 @@
-# Microscope Simulator
+# MICROSCOPE SIMULATOR
 Open Source Project that seeks to simulate a microscope, with scanned images of real slides, with real biological scructures. É um projeto sem fins lucrativos, com o objetivo de construir uma ferramenta com alta validação academica para uso educacional. Buscamos um desenvolvimento colaborativo, em parceria com toda a comunidade academica e de desenvolvedores, todos serão bem-vindos para somar ao projeto.
 
 # PERSPECTIVE ARTICLE
